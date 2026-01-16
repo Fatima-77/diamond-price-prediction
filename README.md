@@ -25,9 +25,3 @@ The trained model predicts price based on user input (e.g., carat, cut, etc.) us
 ## 📊 Results
 - Random Forest MAE: 271
 - Random Forest MSE: 303,910
-
-## 📷 Screenshots
-Include image files like:
-- `mlr_eval.png`
-- `rf_eval.png`
-- `regression_plot.png`
